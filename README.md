@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a Computer Science and Engineering (CSE) bachelor student passionate about coding, problem-solving, and exploring new technologies. I love working on projects that challenge me to learn and grow as a developer. Currently diving deep into Ai, algorithms, data structures, and software development. Always excited to collaborate and contribute to open-source projects!<br>
+👋 Hi there! I'm a Computer Science and Engineering (CSE) bachelor student passionate about coding, problem-solving, and exploring new technologies. I love working on projects that challenge me to learn and grow as a developer. Currently diving deep into AI, algorithms, data structures, and software development. Always excited to collaborate and contribute to open-source projects!<br>
 
 
 ## 🌐 Socials:
